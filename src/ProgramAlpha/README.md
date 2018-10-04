@@ -1,6 +1,9 @@
 ProjectAlpha
+
 Version 1.0 
+
 Date: 10/02/2018
+
 Author: Eric Hoffman
 
 General Program Notes: This program is designed to eventually be able to create a number of multimedia devices including music and movie players. It is a template that will eventually create and record all future devices that are made. For now, it contains three java classes; an Enum, Interface, and an abstract class that will be constantly added to throughout the next two months.
